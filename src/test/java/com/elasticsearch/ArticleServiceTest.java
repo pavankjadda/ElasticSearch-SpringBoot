@@ -1,9 +1,5 @@
 package com.elasticsearch;
 
-import com.elasticsearch.model.Article;
-import com.elasticsearch.model.Author;
-import com.elasticsearch.service.ArticleServiceImpl;
-import javafx.application.Application;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;
 import org.junit.Test;
